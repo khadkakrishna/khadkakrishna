@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with good resources on spatial statistics.
 - 💬 Ask me about data visualisation techniques.
 - 📫 How to reach me: https://www.linkedin.com/in/kkhadka/
-- ⚡ Fun fact: ...
 
 <!--
 **khadkakrishna/khadkakrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
