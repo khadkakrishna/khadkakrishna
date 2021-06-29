@@ -8,5 +8,13 @@
 - How to reach me? 
 > Website: https://krishnakhadka.in or Email: krishnakhadka2802@gmail.com
 <!--
-**khadkakrishna/khadkakrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">My Github Stats:</h2>
+
+<p align="left">
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadkakrishna&margin-w=5&margin-h=5&no-bg=true&no-frame=true&theme=onedark" alt="khadkakrishna" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadkakrishna&show_icons=true&locale=en&layout=compact" alt="khadkakrishna" /></p>
 -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadkakrishna&show_icons=true&locale=en" alt="khadkakrishna" /></p>
+
