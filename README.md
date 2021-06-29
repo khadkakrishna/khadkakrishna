@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=khadkakrishna&show_icons=true&locale=en" alt="khadkakrishna" />
+
 
 - I'm Software Engineer at Micro Focus.
 - I mostly work on development of web application and analytics-dashboard.
@@ -16,5 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadkakrishna&show_icons=true&locale=en&layout=compact" alt="khadkakrishna" /></p>
 -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadkakrishna&show_icons=true&locale=en" alt="khadkakrishna" /></p>
-
