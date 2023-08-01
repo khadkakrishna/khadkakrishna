@@ -2,11 +2,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=khadkakrishna&show_icons=true&locale=en" alt="khadkakrishna" />
 
 
-- I'm Software Engineer at Micro Focus.
-- I mostly work on development of web application and analytics-dashboard.
-- I'm learning Spring Boot and Security with development environment. 
+- I'm Software Engineer 2 at OpenText.
+- I mostly work on the development of web applications and analytics dashboard.
+- I'm learning Spring Boot and Security with the development environment. 
 - I’m looking for opportunities to work on new technologies.
-- Ping me if you need help with data analytics and predictive modelling.
+- Ping me if you need help with data analytics and predictive modeling.
 - How to reach me? 
 > Website: https://krishnakhadka.in or Email: krishnakhadka2802@gmail.com
 <!--
