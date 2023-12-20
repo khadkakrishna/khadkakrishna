@@ -2,9 +2,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=khadkakrishna&show_icons=true&locale=en" alt="khadkakrishna" />
 
 
-- I'm Software Engineer 2 at OpenText.
-- I mostly work on the development of web applications and analytics dashboard.
-- I'm learning Spring Boot and Security with the development environment. 
+- I'm a Senior Machine Learning Engineer at Outsystems.
+- I mostly work on the development of ML Models and Pipelines.
 - I’m looking for opportunities to work on new technologies.
 - Ping me if you need help with data analytics and predictive modeling.
 - How to reach me? 
